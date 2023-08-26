@@ -6,6 +6,6 @@ Welcome to the Temperature Converter repository! This simple tool allows you to 
 Whether you're a developer looking to integrate temperature conversion into your application or just someone who needs to quickly convert temperatures, this tool has got you covered.
 
 Features:
-Convert temperatures between Celsius, Fahrenheit, and Kelvin.
-User-friendly command-line interface.
-Easily integratable into other projects.
+1. Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+2. User-friendly command-line interface.
+3. Easily integratable into other projects.
