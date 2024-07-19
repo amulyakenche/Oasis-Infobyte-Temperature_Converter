@@ -1,5 +1,5 @@
-# Oasis-Infobyte-Temperature_Converter
-I have successfully completed Task-3 Temperature Converter. #OasisInfobyte
+Temperature_Converter
+I have successfully completed Task-3 Temperature Converter. 
 
 Temperature Converter
 
